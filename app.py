@@ -1,7 +1,6 @@
 # app.py
 def get_weather(city):
-    # OOPS! I deleted the return and added a bug
-    print("Fetching data ...")
+    return f"The weather in {city} is sunny."
 
 
-get_weather("Kampala")
+print(get_weather("New York"))
