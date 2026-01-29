@@ -4,3 +4,4 @@ def get_weather(city):
 
 
 print(get_weather("Kisumu"))
+print(get_weather("Mombasa"))
