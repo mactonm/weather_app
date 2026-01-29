@@ -1,2 +1,2 @@
 # app.py (The Original Version)
-print("Hello Kenya!")
+print("Hello Uganda!")
